@@ -7,7 +7,7 @@ function Home() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Siddhesh Gathibandhe
+          Venue Booking
         </p>
         <a
           className="App-link"
